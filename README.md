@@ -81,7 +81,7 @@ graph TD
 
 ### 2. Obtain Ferro API Key
 Ferro requires a specialized reasoning API key to power its decision-making logic:
-1. Visit [ferro.web.id](http://ferro.web.id/) and **Login with GitHub**.
+1. Visit [ferro.my.id](https://ferro.my.id/) and **Login with GitHub**.
 2. Navigate to your **Dashboard**.
 3. Generate and copy your **API Key**.
 
